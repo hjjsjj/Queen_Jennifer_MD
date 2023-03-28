@@ -1,7 +1,7 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              Whats-Bot-MD_V-3 by darkezio
-//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
+//                              Whats-Bot-MD_V-3 by Mr.Hansamala||Mr.Kaveen||Mr.Thilina
+//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 Drak Shadow 
 //
 //════════════════════════════//
 const fs = require('fs')
@@ -14,9 +14,9 @@ const { ownername, botname, footer, ig, region, myweb, packname, author, session
 
 //customize settings\\
 global.APIKeys = {'https://zenzapis.xyz': YOUR_API_KEY } //credit goes to sanzy yt, if api key expire, buy it and put it here?\\ https://zenzapis.xyz
-global.owner = ['94761539856'] // Add Your number Eg: ['94761539856', 'YOUR NUMBER']
-global.premium = ['94761539856'] // Add Your number Eg: ['94761539856', 'YOUR NUMBER']
-global.ownernomer = '94761539856' // Add Your number Eg: ['YOUR NUMBER']
+global.owner = ['94740203415'] // Add Your number Eg: ['94761539856', 'YOUR NUMBER']
+global.premium = ['94740203415'] // Add Your number Eg: ['94761539856', 'YOUR NUMBER']
+global.ownernomer = '94740203415' // Add Your number Eg: ['YOUR NUMBER']
 // we got your name in your whatsapp
 
 
